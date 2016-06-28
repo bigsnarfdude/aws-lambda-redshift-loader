@@ -1,4 +1,4 @@
-# A Zero Administration AWS Lambda Based Amazon Redshift Database Loader
+# AWS Lambda Based Amazon Redshift Database Loader
 
 With this AWS Lambda function, it's never been easier to get file data into Amazon 
 Redshift. You simply push files into a variety of locations on Amazon S3, and 
